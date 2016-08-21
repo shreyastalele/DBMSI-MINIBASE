@@ -1,0 +1,5 @@
+F1:id,dept,salary,tax
+F2:id,dept,salary,tax,id2,start,end
+F3:id2,start,end,id,dept,salary,tax
+F4:id,dept,salary,tax,id2,start,end
+F5:id2,start,end
